@@ -1,2 +1,2 @@
-# mm-server
-MissionMedical back-end server application
+# cm-server
+Christ Medical: back-end server application
