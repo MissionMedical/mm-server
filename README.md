@@ -1,2 +1,2 @@
-# cm-server
-Christ Medical: back-end server application
+# Christ Medical: Server
+Server-side application for the "Christ Medical" project
